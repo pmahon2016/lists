@@ -1,0 +1,16 @@
+# favourite games
+#
+my_list = [“Fallout 4”, “Fortnite Battle Royale”,
+#            “The Elder Scrolls V: Skyrim”, “Hollow Knight”, “Minecraft”]
+#
+# my_int = (2, 3, 4, 5, 3, 2, 4, 5)
+#
+# # print(my_list)
+#
+# # my_int[3] = 7
+# #
+# # for i in range(2,7):
+# #     print(my_int[i])
+
+for game in my_list:
+    print(game)
