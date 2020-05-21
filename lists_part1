@@ -1,0 +1,25 @@
+my_list = [“Fallout 4”, “Fortnite Battle Royale”, “The Elder Scrolls V:Skyrim”,
+
+           “Hollow Knight”, “Minecraft”]
+
+# remove the ‘#’ from the beginning of each sentence to run command
+
+# my_list[0] = “Roblox”
+
+# my_list.append(“Roblox”)   
+
+# del my_list[2]
+
+# my_list.pop()
+
+# my_list.sort()
+
+# my_variable = my_list.pop()
+
+# print(my_list)
+
+# print(my_variable)
+
+# print(len(my_list))
+
+ 
