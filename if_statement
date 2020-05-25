@@ -1,0 +1,43 @@
+"""this is an introductory video on the IF statement"""
+
+# my_list = ['Fallout 4','Fortnite Battle Royale', 'The Elder Scrolls V: Skyrim', 'Hollow Knight', 'Minecraft']
+# 
+# print(my_list)
+# 
+# for game in my_list:
+#     if game == "Minecraft":
+#         print("Yes, you have that game")
+
+# my_int = (2, 3, 4, 5, 3, 2, 4, 5)
+# 
+#
+# user_input = input("Please guess a number between 1 and 20: ")
+# 
+# the_number = 7
+# 
+# if int(user_input) == 7:
+#     print("Wow, you’re good!!!!")
+# 
+# elif the_number-5 <= int(user_input) <= the_number+5:
+#     print("You’re getting warm")
+# 
+# elif (the_number + 5 < int(user_input) <= 20) or (the_number -5 > int(user_input) > 0):
+#     print("You’re not even close")
+# 
+# else:
+#     print("Your number is outside of the range")
+# for num in my_int:
+#     if num == 3:
+#         num = num *10
+#     elif num == 4:
+#         num = num * 100
+#     else:
+#         num = num * 1000
+# 
+#     print(num)
+
+# if "Roblox" not in my_list:
+#     my_list.append("Roblox")
+# 
+# for game in my_list:
+#     print(game)
